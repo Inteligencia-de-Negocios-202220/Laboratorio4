@@ -1,5 +1,4 @@
 from joblib import load
-import numpy as np
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import PolynomialFeatures

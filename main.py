@@ -1,4 +1,3 @@
-from typing import Optional
 from ml_model import Model
 from fastapi import FastAPI
 from data_model import DataModel
