@@ -30,6 +30,7 @@ class Model:
     def fit(self, data):
         data.dropna(subset=['Admission Points'], inplace=True)
         X_train, X_test, Y_train, Y_test = train_test_split(data, data["Admission Points"], test_size=0.2, random_state=1)
+        self.pipeline = self.pipeline.fit(X_train, Y_train)
         error_dict = {
             "Mean_Absolute_Error_Train": mean_absolute_error(Y_train, self.pipeline.predict(X_train)),
             "Root_Mean_Squared_Error_Train": mean_squared_error(Y_train, self.pipeline.predict(X_train)),
