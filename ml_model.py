@@ -1,3 +1,4 @@
+import os
 from joblib import load
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
@@ -24,7 +25,7 @@ class Model:
                 ('model', LinearRegression())
             ]
         )
-        self.model = load("assets/modelo.joblib")
+        self.model = load(os.path.dirname(__file__) + "/assets/modelo.joblib")
 
     def fit(self, data):
         data.dropna(subset=['Admission Points'], inplace=True)
