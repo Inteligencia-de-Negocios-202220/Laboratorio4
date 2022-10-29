@@ -1,6 +1,6 @@
 from ml_model import Model
 from fastapi import FastAPI
-from data_model import DataModel
+from data_model import DataModel, DataModelFit
 import pandas as pd
 import uvicorn
 
@@ -11,8 +11,9 @@ def read_root():
    return {"Hello": "World"}
 
 @app.post("/fit")
-def fit(data: list[DataModel]):
-   data = pd.DataFrame(data)
+def fit(data: list[DataModelFit]):
+   data = [x.dict() for x in data]
+   data = pd.DataFrame(data, columns=data[0].keys())
    model = Model()
    result = model.fit(data)
    return result
