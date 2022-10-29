@@ -1,0 +1,32 @@
+[
+    {
+        "serial_no": 312,
+        "gre_score": 328,
+        "toefl_score": 12334,
+        "university_rating": 4,
+        "sop": -4,
+        "lor": 4.0,
+        "cgpa": 9.18,
+        "research": 0.5
+    },
+    {
+        "serial_no": 239,
+        "gre_score": 326,
+        "toefl_score": 110,
+        "university_rating": 4,
+        "sop": 4.31,
+        "lor": 3.44,
+        "cgpa": -333,
+        "research": 1
+    },
+    {
+        "serial_no": 453,
+        "gre_score": -51287,
+        "toefl_score": 116,
+        "university_rating": 4,
+        "sop": 5.0,
+        "lor": 3.5,
+        "cgpa": 9.6,
+        "research": 1
+    }
+]

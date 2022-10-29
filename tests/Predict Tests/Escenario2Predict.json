@@ -1,0 +1,1752 @@
+[
+    {
+        "serial_no": 117,
+        "gre_score": 299,
+        "toefl_score": 102,
+        "university_rating": 3,
+        "sop": 4.0,
+        "lor": 3.5,
+        "cgpa": 8.62,
+        "research": 0
+    },
+    {
+        "serial_no": 49,
+        "gre_score": 321,
+        "toefl_score": 110,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 5.0,
+        "cgpa": 8.85,
+        "research": 1
+    },
+    {
+        "serial_no": 94,
+        "gre_score": 301,
+        "toefl_score": 97,
+        "university_rating": 2,
+        "sop": 3.0,
+        "lor": 3.0,
+        "cgpa": 7.88,
+        "research": 1
+    },
+    {
+        "serial_no": 108,
+        "gre_score": 338,
+        "toefl_score": 117,
+        "university_rating": 4,
+        "sop": 3.5,
+        "lor": 4.5,
+        "cgpa": 9.46,
+        "research": 1
+    },
+    {
+        "serial_no": 327,
+        "gre_score": 299,
+        "toefl_score": 100,
+        "university_rating": 3,
+        "sop": 2.0,
+        "lor": 2.0,
+        "cgpa": 8.02,
+        "research": 0
+    },
+    {
+        "serial_no": 387,
+        "gre_score": 300,
+        "toefl_score": 100,
+        "university_rating": 2,
+        "sop": 2.31,
+        "lor": 3.22,
+        "cgpa": 7.93,
+        "research": 0
+    },
+    {
+        "serial_no": 312,
+        "gre_score": 328,
+        "toefl_score": 108,
+        "university_rating": 4,
+        "sop": 4.5,
+        "lor": 4.0,
+        "cgpa": 9.18,
+        "research": 1
+    },
+    {
+        "serial_no": 239,
+        "gre_score": 326,
+        "toefl_score": 110,
+        "university_rating": 4,
+        "sop": 4.31,
+        "lor": 3.44,
+        "cgpa": 9.15,
+        "research": 1
+    },
+    {
+        "serial_no": 354,
+        "gre_score": 300,
+        "toefl_score": 102,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 2.5,
+        "cgpa": 8.17,
+        "research": 0
+    },
+    {
+        "serial_no": 453,
+        "gre_score": 328,
+        "toefl_score": 116,
+        "university_rating": 4,
+        "sop": 5.0,
+        "lor": 3.5,
+        "cgpa": 9.6,
+        "research": 1
+    },
+    {
+        "serial_no": 58,
+        "gre_score": 298,
+        "toefl_score": 99,
+        "university_rating": 2,
+        "sop": 4.0,
+        "lor": 2.0,
+        "cgpa": 7.6,
+        "research": 0
+    },
+    {
+        "serial_no": 59,
+        "gre_score": 301,
+        "toefl_score": 99,
+        "university_rating": 2,
+        "sop": 3.66,
+        "lor": 2.34,
+        "cgpa": 7.77,
+        "research": 0
+    },
+    {
+        "serial_no": 361,
+        "gre_score": 322,
+        "toefl_score": 110,
+        "university_rating": 3,
+        "sop": 4.0,
+        "lor": 5.0,
+        "cgpa": 8.64,
+        "research": 1
+    },
+    {
+        "serial_no": 95,
+        "gre_score": 303,
+        "toefl_score": 99,
+        "university_rating": 3,
+        "sop": 2.0,
+        "lor": 2.5,
+        "cgpa": 7.66,
+        "research": 0
+    },
+    {
+        "serial_no": 119,
+        "gre_score": 296,
+        "toefl_score": 99,
+        "university_rating": 2,
+        "sop": 3.0,
+        "lor": 3.5,
+        "cgpa": 7.28,
+        "research": 0
+    },
+    {
+        "serial_no": 134,
+        "gre_score": 332,
+        "toefl_score": 113,
+        "university_rating": 4,
+        "sop": 4.0,
+        "lor": 3.99,
+        "cgpa": 9.28,
+        "research": 1
+    },
+    {
+        "serial_no": 424,
+        "gre_score": 334,
+        "toefl_score": 118,
+        "university_rating": 5,
+        "sop": 4.57,
+        "lor": 4.93,
+        "cgpa": 9.48,
+        "research": 1
+    },
+    {
+        "serial_no": 171,
+        "gre_score": 312,
+        "toefl_score": 101,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 3.5,
+        "cgpa": 8.04,
+        "research": 1
+    },
+    {
+        "serial_no": 230,
+        "gre_score": 324,
+        "toefl_score": 111,
+        "university_rating": 4,
+        "sop": 3.0,
+        "lor": 3.0,
+        "cgpa": 9.01,
+        "research": 1
+    },
+    {
+        "serial_no": 40,
+        "gre_score": 307,
+        "toefl_score": 108,
+        "university_rating": 2,
+        "sop": 4.0,
+        "lor": 3.5,
+        "cgpa": 7.7,
+        "research": 0
+    },
+    {
+        "serial_no": 372,
+        "gre_score": 324,
+        "toefl_score": 110,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 3.0,
+        "cgpa": 9.22,
+        "research": 1
+    },
+    {
+        "serial_no": 149,
+        "gre_score": 339,
+        "toefl_score": 116,
+        "university_rating": 4,
+        "sop": 4.0,
+        "lor": 3.5,
+        "cgpa": 9.8,
+        "research": 1
+    },
+    {
+        "serial_no": 444,
+        "gre_score": 321,
+        "toefl_score": 114,
+        "university_rating": 5,
+        "sop": 4.5,
+        "lor": 4.5,
+        "cgpa": 9.16,
+        "research": 1
+    },
+    {
+        "serial_no": 343,
+        "gre_score": 308,
+        "toefl_score": 106,
+        "university_rating": 3,
+        "sop": 3.0,
+        "lor": 3.0,
+        "cgpa": 8.24,
+        "research": 0
+    },
+    {
+        "serial_no": 408,
+        "gre_score": 305,
+        "toefl_score": 99,
+        "university_rating": 3,
+        "sop": 2.63,
+        "lor": 2.74,
+        "cgpa": 7.58,
+        "research": 0
+    },
+    {
+        "serial_no": 336,
+        "gre_score": 297,
+        "toefl_score": 95,
+        "university_rating": 1,
+        "sop": 2.41,
+        "lor": 1.59,
+        "cgpa": 7.89,
+        "research": 0
+    },
+    {
+        "serial_no": 277,
+        "gre_score": 329,
+        "toefl_score": 113,
+        "university_rating": 5,
+        "sop": 5.0,
+        "lor": 4.5,
+        "cgpa": 9.45,
+        "research": 1
+    },
+    {
+        "serial_no": 92,
+        "gre_score": 299,
+        "toefl_score": 97,
+        "university_rating": 2,
+        "sop": 4.98,
+        "lor": 3.5,
+        "cgpa": 7.66,
+        "research": 0
+    },
+    {
+        "serial_no": 7,
+        "gre_score": 321,
+        "toefl_score": 109,
+        "university_rating": 3,
+        "sop": 3.0,
+        "lor": 4.0,
+        "cgpa": 8.2,
+        "research": 1
+    },
+    {
+        "serial_no": 65,
+        "gre_score": 325,
+        "toefl_score": 111,
+        "university_rating": 3,
+        "sop": 3.0,
+        "lor": 3.5,
+        "cgpa": 8.7,
+        "research": 0
+    },
+    {
+        "serial_no": 224,
+        "gre_score": 308,
+        "toefl_score": 109,
+        "university_rating": 2,
+        "sop": 3.0,
+        "lor": 4.0,
+        "cgpa": 8.45,
+        "research": 0
+    },
+    {
+        "serial_no": 318,
+        "gre_score": 300,
+        "toefl_score": 99,
+        "university_rating": 1,
+        "sop": 1.0,
+        "lor": 2.5,
+        "cgpa": 8.01,
+        "research": 0
+    },
+    {
+        "serial_no": 34,
+        "gre_score": 333,
+        "toefl_score": 113,
+        "university_rating": 4,
+        "sop": 3.71,
+        "lor": 4.86,
+        "cgpa": 9.69,
+        "research": 1
+    },
+    {
+        "serial_no": 340,
+        "gre_score": 295,
+        "toefl_score": 96,
+        "university_rating": 2,
+        "sop": 1.8,
+        "lor": 1.85,
+        "cgpa": 7.5,
+        "research": 0
+    },
+    {
+        "serial_no": 153,
+        "gre_score": 321,
+        "toefl_score": 112,
+        "university_rating": 5,
+        "sop": 5.0,
+        "lor": 5.0,
+        "cgpa": 9.06,
+        "research": 1
+    },
+    {
+        "serial_no": 11,
+        "gre_score": 323,
+        "toefl_score": 105,
+        "university_rating": 2,
+        "sop": 3.41,
+        "lor": 3.93,
+        "cgpa": 8.36,
+        "research": 1
+    },
+    {
+        "serial_no": 443,
+        "gre_score": 331,
+        "toefl_score": 116,
+        "university_rating": 4,
+        "sop": 4.5,
+        "lor": 4.5,
+        "cgpa": 9.44,
+        "research": 1
+    },
+    {
+        "serial_no": 59,
+        "gre_score": 309,
+        "toefl_score": 103,
+        "university_rating": 1,
+        "sop": 2.1,
+        "lor": 2.0,
+        "cgpa": 8.15,
+        "research": 0
+    },
+    {
+        "serial_no": 476,
+        "gre_score": 300,
+        "toefl_score": 101,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 2.5,
+        "cgpa": 7.88,
+        "research": 0
+    },
+    {
+        "serial_no": 330,
+        "gre_score": 297,
+        "toefl_score": 96,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 1.5,
+        "cgpa": 7.89,
+        "research": 0
+    },
+    {
+        "serial_no": 192,
+        "gre_score": 323,
+        "toefl_score": 110,
+        "university_rating": 5,
+        "sop": 4.0,
+        "lor": 5.0,
+        "cgpa": 8.98,
+        "research": 1
+    },
+    {
+        "serial_no": 423,
+        "gre_score": 299,
+        "toefl_score": 100,
+        "university_rating": 2,
+        "sop": 2.0,
+        "lor": 2.94,
+        "cgpa": 7.45,
+        "research": 0
+    },
+    {
+        "serial_no": 301,
+        "gre_score": 309,
+        "toefl_score": 106,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 2.5,
+        "cgpa": 8.0,
+        "research": 0
+    },
+    {
+        "serial_no": 81,
+        "gre_score": 312,
+        "toefl_score": 105,
+        "university_rating": 3,
+        "sop": 2.0,
+        "lor": 3.0,
+        "cgpa": 8.02,
+        "research": 1
+    },
+    {
+        "serial_no": 279,
+        "gre_score": 308,
+        "toefl_score": 103,
+        "university_rating": 2,
+        "sop": 3.0,
+        "lor": 3.5,
+        "cgpa": 8.49,
+        "research": 0
+    },
+    {
+        "serial_no": 40,
+        "gre_score": 307,
+        "toefl_score": 108,
+        "university_rating": 2,
+        "sop": 3.38,
+        "lor": 2.63,
+        "cgpa": 7.88,
+        "research": 0
+    },
+    {
+        "serial_no": 16,
+        "gre_score": 323,
+        "toefl_score": 105,
+        "university_rating": 2,
+        "sop": 3.31,
+        "lor": 3.71,
+        "cgpa": 8.36,
+        "research": 1
+    },
+    {
+        "serial_no": 259,
+        "gre_score": 326,
+        "toefl_score": 102,
+        "university_rating": 4,
+        "sop": 5.0,
+        "lor": 5.0,
+        "cgpa": 8.76,
+        "research": 1
+    },
+    {
+        "serial_no": 346,
+        "gre_score": 305,
+        "toefl_score": 97,
+        "university_rating": 1,
+        "sop": 1.5,
+        "lor": 2.0,
+        "cgpa": 7.61,
+        "research": 0
+    },
+    {
+        "serial_no": 93,
+        "gre_score": 298,
+        "toefl_score": 98,
+        "university_rating": 2,
+        "sop": 4.0,
+        "lor": 3.0,
+        "cgpa": 8.03,
+        "research": 0
+    },
+    {
+        "serial_no": 347,
+        "gre_score": 304,
+        "toefl_score": 97,
+        "university_rating": 2,
+        "sop": 1.5,
+        "lor": 2.0,
+        "cgpa": 7.64,
+        "research": 0
+    },
+    {
+        "serial_no": 294,
+        "gre_score": 312,
+        "toefl_score": 98,
+        "university_rating": 1,
+        "sop": 3.5,
+        "lor": 3.0,
+        "cgpa": 8.18,
+        "research": 1
+    },
+    {
+        "serial_no": 271,
+        "gre_score": 306,
+        "toefl_score": 105,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 3.0,
+        "cgpa": 8.22,
+        "research": 1
+    },
+    {
+        "serial_no": 35,
+        "gre_score": 331,
+        "toefl_score": 112,
+        "university_rating": 5,
+        "sop": 4.0,
+        "lor": 5.0,
+        "cgpa": 9.8,
+        "research": 1
+    },
+    {
+        "serial_no": 252,
+        "gre_score": 316,
+        "toefl_score": 99,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 3.0,
+        "cgpa": 9.0,
+        "research": 0
+    },
+    {
+        "serial_no": 342,
+        "gre_score": 326,
+        "toefl_score": 110,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 3.5,
+        "cgpa": 8.76,
+        "research": 1
+    },
+    {
+        "serial_no": 60,
+        "gre_score": 310,
+        "toefl_score": 103,
+        "university_rating": 2,
+        "sop": 2.17,
+        "lor": 2.09,
+        "cgpa": 8.29,
+        "research": 0
+    },
+    {
+        "serial_no": 192,
+        "gre_score": 323,
+        "toefl_score": 110,
+        "university_rating": 5,
+        "sop": 4.0,
+        "lor": 5.0,
+        "cgpa": 8.98,
+        "research": 1
+    },
+    {
+        "serial_no": 250,
+        "gre_score": 321,
+        "toefl_score": 111,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 4.0,
+        "cgpa": 8.83,
+        "research": 1
+    },
+    {
+        "serial_no": 391,
+        "gre_score": 314,
+        "toefl_score": 102,
+        "university_rating": 2,
+        "sop": 2.0,
+        "lor": 2.5,
+        "cgpa": 8.24,
+        "research": 0
+    },
+    {
+        "serial_no": 428,
+        "gre_score": 310,
+        "toefl_score": 101,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 5.0,
+        "cgpa": 8.65,
+        "research": 1
+    },
+    {
+        "serial_no": 334,
+        "gre_score": 330,
+        "toefl_score": 117,
+        "university_rating": 4,
+        "sop": 4.52,
+        "lor": 4.68,
+        "cgpa": 9.36,
+        "research": 1
+    },
+    {
+        "serial_no": 355,
+        "gre_score": 297,
+        "toefl_score": 98,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 3.0,
+        "cgpa": 7.67,
+        "research": 0
+    },
+    {
+        "serial_no": 60,
+        "gre_score": 309,
+        "toefl_score": 100,
+        "university_rating": 2,
+        "sop": 2.92,
+        "lor": 2.92,
+        "cgpa": 8.12,
+        "research": 0
+    },
+    {
+        "serial_no": 380,
+        "gre_score": 311,
+        "toefl_score": 105,
+        "university_rating": 2,
+        "sop": 2.0,
+        "lor": 2.93,
+        "cgpa": 7.84,
+        "research": 0
+    },
+    {
+        "serial_no": 380,
+        "gre_score": 311,
+        "toefl_score": 99,
+        "university_rating": 1,
+        "sop": 2.5,
+        "lor": 3.0,
+        "cgpa": 8.43,
+        "research": 1
+    },
+    {
+        "serial_no": 460,
+        "gre_score": 329,
+        "toefl_score": 113,
+        "university_rating": 4,
+        "sop": 4.0,
+        "lor": 3.5,
+        "cgpa": 9.36,
+        "research": 1
+    },
+    {
+        "serial_no": 48,
+        "gre_score": 339,
+        "toefl_score": 119,
+        "university_rating": 5,
+        "sop": 4.5,
+        "lor": 4.0,
+        "cgpa": 9.7,
+        "research": 0
+    },
+    {
+        "serial_no": 142,
+        "gre_score": 332,
+        "toefl_score": 118,
+        "university_rating": 2,
+        "sop": 4.5,
+        "lor": 3.5,
+        "cgpa": 9.36,
+        "research": 1
+    },
+    {
+        "serial_no": 92,
+        "gre_score": 299,
+        "toefl_score": 97,
+        "university_rating": 3,
+        "sop": 5.0,
+        "lor": 3.5,
+        "cgpa": 7.66,
+        "research": 0
+    },
+    {
+        "serial_no": 94,
+        "gre_score": 301,
+        "toefl_score": 97,
+        "university_rating": 2,
+        "sop": 2.63,
+        "lor": 2.81,
+        "cgpa": 7.8,
+        "research": 0
+    },
+    {
+        "serial_no": 54,
+        "gre_score": 324,
+        "toefl_score": 112,
+        "university_rating": 4,
+        "sop": 4.0,
+        "lor": 2.5,
+        "cgpa": 8.1,
+        "research": 1
+    },
+    {
+        "serial_no": 118,
+        "gre_score": 290,
+        "toefl_score": 104,
+        "university_rating": 4,
+        "sop": 2.0,
+        "lor": 2.5,
+        "cgpa": 7.46,
+        "research": 0
+    },
+    {
+        "serial_no": 457,
+        "gre_score": 298,
+        "toefl_score": 99,
+        "university_rating": 1,
+        "sop": 2.0,
+        "lor": 1.89,
+        "cgpa": 7.81,
+        "research": 0
+    },
+    {
+        "serial_no": 35,
+        "gre_score": 331,
+        "toefl_score": 112,
+        "university_rating": 5,
+        "sop": 4.0,
+        "lor": 5.0,
+        "cgpa": 9.8,
+        "research": 1
+    },
+    {
+        "serial_no": 110,
+        "gre_score": 304,
+        "toefl_score": 103,
+        "university_rating": 5,
+        "sop": 5.0,
+        "lor": 4.0,
+        "cgpa": 8.64,
+        "research": 0
+    },
+    {
+        "serial_no": 241,
+        "gre_score": 296,
+        "toefl_score": 101,
+        "university_rating": 1,
+        "sop": 2.5,
+        "lor": 3.0,
+        "cgpa": 7.68,
+        "research": 0
+    },
+    {
+        "serial_no": 311,
+        "gre_score": 320,
+        "toefl_score": 104,
+        "university_rating": 3,
+        "sop": 3.0,
+        "lor": 3.5,
+        "cgpa": 8.74,
+        "research": 1
+    },
+    {
+        "serial_no": 221,
+        "gre_score": 313,
+        "toefl_score": 103,
+        "university_rating": 3,
+        "sop": 4.0,
+        "lor": 4.0,
+        "cgpa": 8.75,
+        "research": 0
+    },
+    {
+        "serial_no": 299,
+        "gre_score": 330,
+        "toefl_score": 114,
+        "university_rating": 3,
+        "sop": 4.5,
+        "lor": 4.5,
+        "cgpa": 9.24,
+        "research": 1
+    },
+    {
+        "serial_no": 443,
+        "gre_score": 331,
+        "toefl_score": 116,
+        "university_rating": 4,
+        "sop": 4.5,
+        "lor": 4.5,
+        "cgpa": 9.44,
+        "research": 1
+    },
+    {
+        "serial_no": 183,
+        "gre_score": 299,
+        "toefl_score": 100,
+        "university_rating": 2,
+        "sop": 3.0,
+        "lor": 3.5,
+        "cgpa": 7.88,
+        "research": 0
+    },
+    {
+        "serial_no": 497,
+        "gre_score": 337,
+        "toefl_score": 117,
+        "university_rating": 5,
+        "sop": 5.0,
+        "lor": 5.0,
+        "cgpa": 9.87,
+        "research": 1
+    },
+    {
+        "serial_no": 304,
+        "gre_score": 323,
+        "toefl_score": 107,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 3.5,
+        "cgpa": 8.55,
+        "research": 1
+    },
+    {
+        "serial_no": 44,
+        "gre_score": 332,
+        "toefl_score": 117,
+        "university_rating": 4,
+        "sop": 4.5,
+        "lor": 4.0,
+        "cgpa": 9.1,
+        "research": 0
+    },
+    {
+        "serial_no": 123,
+        "gre_score": 310,
+        "toefl_score": 106,
+        "university_rating": 4,
+        "sop": 1.5,
+        "lor": 2.5,
+        "cgpa": 8.36,
+        "research": 0
+    },
+    {
+        "serial_no": 59,
+        "gre_score": 301,
+        "toefl_score": 99,
+        "university_rating": 2,
+        "sop": 3.66,
+        "lor": 2.34,
+        "cgpa": 7.77,
+        "research": 0
+    },
+    {
+        "serial_no": 77,
+        "gre_score": 327,
+        "toefl_score": 112,
+        "university_rating": 3,
+        "sop": 3.0,
+        "lor": 3.0,
+        "cgpa": 8.72,
+        "research": 1
+    },
+    {
+        "serial_no": 93,
+        "gre_score": 298,
+        "toefl_score": 97,
+        "university_rating": 2,
+        "sop": 3.91,
+        "lor": 3.0,
+        "cgpa": 8.02,
+        "research": 0
+    },
+    {
+        "serial_no": 36,
+        "gre_score": 304,
+        "toefl_score": 104,
+        "university_rating": 2,
+        "sop": 3.23,
+        "lor": 3.19,
+        "cgpa": 7.64,
+        "research": 0
+    },
+    {
+        "serial_no": 454,
+        "gre_score": 319,
+        "toefl_score": 103,
+        "university_rating": 3,
+        "sop": 2.5,
+        "lor": 4.0,
+        "cgpa": 8.76,
+        "research": 1
+    },
+    {
+        "serial_no": 307,
+        "gre_score": 323,
+        "toefl_score": 110,
+        "university_rating": 3,
+        "sop": 4.0,
+        "lor": 3.5,
+        "cgpa": 9.1,
+        "research": 1
+    },
+    {
+        "serial_no": 348,
+        "gre_score": 299,
+        "toefl_score": 94,
+        "university_rating": 1,
+        "sop": 1.0,
+        "lor": 1.0,
+        "cgpa": 7.34,
+        "research": 0
+    },
+    {
+        "serial_no": 15,
+        "gre_score": 311,
+        "toefl_score": 104,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 2.0,
+        "cgpa": 8.2,
+        "research": 1
+    },
+    {
+        "serial_no": 93,
+        "gre_score": 298,
+        "toefl_score": 97,
+        "university_rating": 2,
+        "sop": 3.91,
+        "lor": 3.0,
+        "cgpa": 8.02,
+        "research": 0
+    },
+    {
+        "serial_no": 378,
+        "gre_score": 294,
+        "toefl_score": 96,
+        "university_rating": 1,
+        "sop": 2.2,
+        "lor": 2.0,
+        "cgpa": 7.5,
+        "research": 0
+    },
+    {
+        "serial_no": 500,
+        "gre_score": 327,
+        "toefl_score": 113,
+        "university_rating": 4,
+        "sop": 4.5,
+        "lor": 4.5,
+        "cgpa": 9.04,
+        "research": 0
+    },
+    {
+        "serial_no": 125,
+        "gre_score": 301,
+        "toefl_score": 106,
+        "university_rating": 4,
+        "sop": 2.5,
+        "lor": 3.0,
+        "cgpa": 8.47,
+        "research": 0
+    },
+    {
+        "serial_no": 222,
+        "gre_score": 316,
+        "toefl_score": 110,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 4.0,
+        "cgpa": 8.56,
+        "research": 0
+    },
+    {
+        "serial_no": 6,
+        "gre_score": 330,
+        "toefl_score": 115,
+        "university_rating": 5,
+        "sop": 4.5,
+        "lor": 3.0,
+        "cgpa": 9.34,
+        "research": 1
+    },
+    {
+        "serial_no": 234,
+        "gre_score": 304,
+        "toefl_score": 100,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 3.5,
+        "cgpa": 8.07,
+        "research": 0
+    },
+    {
+        "serial_no": 277,
+        "gre_score": 329,
+        "toefl_score": 113,
+        "university_rating": 5,
+        "sop": 5.0,
+        "lor": 4.5,
+        "cgpa": 9.45,
+        "research": 1
+    },
+    {
+        "serial_no": 218,
+        "gre_score": 321,
+        "toefl_score": 109,
+        "university_rating": 4,
+        "sop": 4.0,
+        "lor": 4.0,
+        "cgpa": 9.13,
+        "research": 1
+    },
+    {
+        "serial_no": 79,
+        "gre_score": 294,
+        "toefl_score": 93,
+        "university_rating": 1,
+        "sop": 1.92,
+        "lor": 2.0,
+        "cgpa": 7.41,
+        "research": 0
+    },
+    {
+        "serial_no": 19,
+        "gre_score": 318,
+        "toefl_score": 110,
+        "university_rating": 3,
+        "sop": 4.0,
+        "lor": 3.0,
+        "cgpa": 8.8,
+        "research": 0
+    },
+    {
+        "serial_no": 471,
+        "gre_score": 320,
+        "toefl_score": 110,
+        "university_rating": 5,
+        "sop": 4.0,
+        "lor": 4.0,
+        "cgpa": 9.27,
+        "research": 1
+    },
+    {
+        "serial_no": 394,
+        "gre_score": 317,
+        "toefl_score": 104,
+        "university_rating": 2,
+        "sop": 3.0,
+        "lor": 3.0,
+        "cgpa": 8.76,
+        "research": 0
+    },
+    {
+        "serial_no": 128,
+        "gre_score": 319,
+        "toefl_score": 112,
+        "university_rating": 3,
+        "sop": 2.5,
+        "lor": 2.0,
+        "cgpa": 8.71,
+        "research": 1
+    },
+    {
+        "serial_no": 260,
+        "gre_score": 331,
+        "toefl_score": 119,
+        "university_rating": 4,
+        "sop": 5.0,
+        "lor": 4.5,
+        "cgpa": 9.34,
+        "research": 1
+    },
+    {
+        "serial_no": 33,
+        "gre_score": 335,
+        "toefl_score": 116,
+        "university_rating": 4,
+        "sop": 3.31,
+        "lor": 4.65,
+        "cgpa": 9.52,
+        "research": 1
+    },
+    {
+        "serial_no": 379,
+        "gre_score": 303,
+        "toefl_score": 98,
+        "university_rating": 1,
+        "sop": 2.0,
+        "lor": 2.5,
+        "cgpa": 7.65,
+        "research": 0
+    },
+    {
+        "serial_no": 376,
+        "gre_score": 302,
+        "toefl_score": 99,
+        "university_rating": 2,
+        "sop": 2.08,
+        "lor": 2.48,
+        "cgpa": 7.65,
+        "research": 0
+    },
+    {
+        "serial_no": 168,
+        "gre_score": 313,
+        "toefl_score": 102,
+        "university_rating": 3,
+        "sop": 2.0,
+        "lor": 3.0,
+        "cgpa": 8.27,
+        "research": 0
+    },
+    {
+        "serial_no": 400,
+        "gre_score": 333,
+        "toefl_score": 117,
+        "university_rating": 4,
+        "sop": 5.0,
+        "lor": 4.0,
+        "cgpa": 9.66,
+        "research": 1
+    },
+    {
+        "serial_no": 444,
+        "gre_score": 327,
+        "toefl_score": 114,
+        "university_rating": 4,
+        "sop": 4.22,
+        "lor": 4.78,
+        "cgpa": 9.33,
+        "research": 1
+    },
+    {
+        "serial_no": 190,
+        "gre_score": 324,
+        "toefl_score": 112,
+        "university_rating": 5,
+        "sop": 5.0,
+        "lor": 5.0,
+        "cgpa": 9.08,
+        "research": 1
+    },
+    {
+        "serial_no": 386,
+        "gre_score": 335,
+        "toefl_score": 117,
+        "university_rating": 5,
+        "sop": 5.0,
+        "lor": 5.0,
+        "cgpa": 9.82,
+        "research": 1
+    },
+    {
+        "serial_no": 28,
+        "gre_score": 295,
+        "toefl_score": 93,
+        "university_rating": 1,
+        "sop": 2.0,
+        "lor": 1.98,
+        "cgpa": 7.23,
+        "research": 0
+    },
+    {
+        "serial_no": 176,
+        "gre_score": 320,
+        "toefl_score": 111,
+        "university_rating": 4,
+        "sop": 4.5,
+        "lor": 3.5,
+        "cgpa": 8.87,
+        "research": 1
+    },
+    {
+        "serial_no": 457,
+        "gre_score": 299,
+        "toefl_score": 100,
+        "university_rating": 2,
+        "sop": 2.0,
+        "lor": 2.0,
+        "cgpa": 7.88,
+        "research": 0
+    },
+    {
+        "serial_no": 110,
+        "gre_score": 304,
+        "toefl_score": 103,
+        "university_rating": 5,
+        "sop": 5.0,
+        "lor": 4.0,
+        "cgpa": 8.64,
+        "research": 0
+    },
+    {
+        "serial_no": 81,
+        "gre_score": 312,
+        "toefl_score": 105,
+        "university_rating": 3,
+        "sop": 2.0,
+        "lor": 3.0,
+        "cgpa": 8.02,
+        "research": 1
+    },
+    {
+        "serial_no": 162,
+        "gre_score": 298,
+        "toefl_score": 99,
+        "university_rating": 1,
+        "sop": 1.5,
+        "lor": 3.0,
+        "cgpa": 7.46,
+        "research": 0
+    },
+    {
+        "serial_no": 254,
+        "gre_score": 335,
+        "toefl_score": 115,
+        "university_rating": 4,
+        "sop": 4.5,
+        "lor": 4.5,
+        "cgpa": 9.68,
+        "research": 1
+    },
+    {
+        "serial_no": 403,
+        "gre_score": 324,
+        "toefl_score": 109,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 3.0,
+        "cgpa": 8.94,
+        "research": 1
+    },
+    {
+        "serial_no": 484,
+        "gre_score": 304,
+        "toefl_score": 103,
+        "university_rating": 5,
+        "sop": 5.0,
+        "lor": 3.0,
+        "cgpa": 7.92,
+        "research": 0
+    },
+    {
+        "serial_no": 482,
+        "gre_score": 323,
+        "toefl_score": 107,
+        "university_rating": 4,
+        "sop": 3.0,
+        "lor": 2.5,
+        "cgpa": 8.48,
+        "research": 1
+    },
+    {
+        "serial_no": 489,
+        "gre_score": 322,
+        "toefl_score": 112,
+        "university_rating": 3,
+        "sop": 3.0,
+        "lor": 4.0,
+        "cgpa": 8.62,
+        "research": 1
+    },
+    {
+        "serial_no": 462,
+        "gre_score": 301,
+        "toefl_score": 102,
+        "university_rating": 3,
+        "sop": 2.5,
+        "lor": 2.0,
+        "cgpa": 8.13,
+        "research": 1
+    },
+    {
+        "serial_no": 131,
+        "gre_score": 300,
+        "toefl_score": 99,
+        "university_rating": 2,
+        "sop": 1.5,
+        "lor": 2.34,
+        "cgpa": 7.82,
+        "research": 0
+    },
+    {
+        "serial_no": 372,
+        "gre_score": 324,
+        "toefl_score": 110,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 3.0,
+        "cgpa": 9.22,
+        "research": 1
+    },
+    {
+        "serial_no": 79,
+        "gre_score": 302,
+        "toefl_score": 98,
+        "university_rating": 2,
+        "sop": 2.62,
+        "lor": 2.38,
+        "cgpa": 7.72,
+        "research": 1
+    },
+    {
+        "serial_no": 60,
+        "gre_score": 305,
+        "toefl_score": 99,
+        "university_rating": 2,
+        "sop": 3.33,
+        "lor": 2.67,
+        "cgpa": 7.93,
+        "research": 0
+    },
+    {
+        "serial_no": 148,
+        "gre_score": 326,
+        "toefl_score": 114,
+        "university_rating": 3,
+        "sop": 3.0,
+        "lor": 3.0,
+        "cgpa": 9.11,
+        "research": 1
+    },
+    {
+        "serial_no": 68,
+        "gre_score": 316,
+        "toefl_score": 107,
+        "university_rating": 2,
+        "sop": 3.5,
+        "lor": 3.5,
+        "cgpa": 8.64,
+        "research": 1
+    },
+    {
+        "serial_no": 435,
+        "gre_score": 306,
+        "toefl_score": 103,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 3.0,
+        "cgpa": 8.21,
+        "research": 0
+    },
+    {
+        "serial_no": 387,
+        "gre_score": 302,
+        "toefl_score": 101,
+        "university_rating": 2,
+        "sop": 2.48,
+        "lor": 3.5,
+        "cgpa": 7.97,
+        "research": 0
+    },
+    {
+        "serial_no": 188,
+        "gre_score": 335,
+        "toefl_score": 118,
+        "university_rating": 5,
+        "sop": 4.5,
+        "lor": 3.5,
+        "cgpa": 9.44,
+        "research": 1
+    },
+    {
+        "serial_no": 192,
+        "gre_score": 322,
+        "toefl_score": 113,
+        "university_rating": 5,
+        "sop": 4.39,
+        "lor": 4.23,
+        "cgpa": 8.95,
+        "research": 1
+    },
+    {
+        "serial_no": 126,
+        "gre_score": 337,
+        "toefl_score": 115,
+        "university_rating": 5,
+        "sop": 4.49,
+        "lor": 4.75,
+        "cgpa": 9.66,
+        "research": 1
+    },
+    {
+        "serial_no": 19,
+        "gre_score": 318,
+        "toefl_score": 110,
+        "university_rating": 3,
+        "sop": 4.0,
+        "lor": 3.0,
+        "cgpa": 8.8,
+        "research": 0
+    },
+    {
+        "serial_no": 378,
+        "gre_score": 290,
+        "toefl_score": 100,
+        "university_rating": 1,
+        "sop": 1.5,
+        "lor": 2.0,
+        "cgpa": 7.56,
+        "research": 0
+    },
+    {
+        "serial_no": 256,
+        "gre_score": 307,
+        "toefl_score": 110,
+        "university_rating": 4,
+        "sop": 4.0,
+        "lor": 4.5,
+        "cgpa": 8.37,
+        "research": 0
+    },
+    {
+        "serial_no": 40,
+        "gre_score": 307,
+        "toefl_score": 108,
+        "university_rating": 2,
+        "sop": 4.0,
+        "lor": 3.5,
+        "cgpa": 7.7,
+        "research": 0
+    },
+    {
+        "serial_no": 454,
+        "gre_score": 319,
+        "toefl_score": 103,
+        "university_rating": 3,
+        "sop": 2.5,
+        "lor": 4.0,
+        "cgpa": 8.76,
+        "research": 1
+    },
+    {
+        "serial_no": 205,
+        "gre_score": 298,
+        "toefl_score": 105,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 4.0,
+        "cgpa": 8.54,
+        "research": 0
+    },
+    {
+        "serial_no": 206,
+        "gre_score": 295,
+        "toefl_score": 99,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 3.0,
+        "cgpa": 7.65,
+        "research": 0
+    },
+    {
+        "serial_no": 256,
+        "gre_score": 307,
+        "toefl_score": 110,
+        "university_rating": 4,
+        "sop": 4.0,
+        "lor": 4.5,
+        "cgpa": 8.37,
+        "research": 0
+    },
+    {
+        "serial_no": 93,
+        "gre_score": 300,
+        "toefl_score": 97,
+        "university_rating": 2,
+        "sop": 3.46,
+        "lor": 3.11,
+        "cgpa": 7.83,
+        "research": 0
+    },
+    {
+        "serial_no": 263,
+        "gre_score": 308,
+        "toefl_score": 103,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 4.0,
+        "cgpa": 8.36,
+        "research": 1
+    },
+    {
+        "serial_no": 459,
+        "gre_score": 312,
+        "toefl_score": 100,
+        "university_rating": 1,
+        "sop": 3.0,
+        "lor": 3.0,
+        "cgpa": 8.53,
+        "research": 1
+    },
+    {
+        "serial_no": 377,
+        "gre_score": 297,
+        "toefl_score": 96,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 2.0,
+        "cgpa": 7.43,
+        "research": 0
+    },
+    {
+        "serial_no": 419,
+        "gre_score": 306,
+        "toefl_score": 101,
+        "university_rating": 3,
+        "sop": 2.66,
+        "lor": 2.56,
+        "cgpa": 7.53,
+        "research": 0
+    },
+    {
+        "serial_no": 219,
+        "gre_score": 324,
+        "toefl_score": 110,
+        "university_rating": 4,
+        "sop": 3.0,
+        "lor": 3.5,
+        "cgpa": 8.97,
+        "research": 1
+    },
+    {
+        "serial_no": 309,
+        "gre_score": 312,
+        "toefl_score": 108,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 3.0,
+        "cgpa": 8.53,
+        "research": 0
+    },
+    {
+        "serial_no": 6,
+        "gre_score": 330,
+        "toefl_score": 115,
+        "university_rating": 5,
+        "sop": 4.5,
+        "lor": 3.0,
+        "cgpa": 9.34,
+        "research": 1
+    },
+    {
+        "serial_no": 59,
+        "gre_score": 300,
+        "toefl_score": 99,
+        "university_rating": 1,
+        "sop": 3.0,
+        "lor": 2.0,
+        "cgpa": 6.8,
+        "research": 1
+    },
+    {
+        "serial_no": 112,
+        "gre_score": 293,
+        "toefl_score": 103,
+        "university_rating": 4,
+        "sop": 1.88,
+        "lor": 2.5,
+        "cgpa": 7.55,
+        "research": 0
+    },
+    {
+        "serial_no": 249,
+        "gre_score": 324,
+        "toefl_score": 110,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 4.0,
+        "cgpa": 8.87,
+        "research": 1
+    },
+    {
+        "serial_no": 236,
+        "gre_score": 326,
+        "toefl_score": 111,
+        "university_rating": 5,
+        "sop": 4.5,
+        "lor": 4.0,
+        "cgpa": 9.23,
+        "research": 1
+    },
+    {
+        "serial_no": 39,
+        "gre_score": 304,
+        "toefl_score": 105,
+        "university_rating": 1,
+        "sop": 3.0,
+        "lor": 1.5,
+        "cgpa": 7.5,
+        "research": 0
+    },
+    {
+        "serial_no": 217,
+        "gre_score": 321,
+        "toefl_score": 111,
+        "university_rating": 4,
+        "sop": 4.49,
+        "lor": 4.49,
+        "cgpa": 9.26,
+        "research": 1
+    },
+    {
+        "serial_no": 220,
+        "gre_score": 312,
+        "toefl_score": 104,
+        "university_rating": 3,
+        "sop": 3.5,
+        "lor": 3.5,
+        "cgpa": 8.42,
+        "research": 0
+    },
+    {
+        "serial_no": 61,
+        "gre_score": 312,
+        "toefl_score": 102,
+        "university_rating": 2,
+        "sop": 3.0,
+        "lor": 3.1,
+        "cgpa": 8.22,
+        "research": 0
+    },
+    {
+        "serial_no": 118,
+        "gre_score": 290,
+        "toefl_score": 103,
+        "university_rating": 3,
+        "sop": 2.07,
+        "lor": 2.57,
+        "cgpa": 7.45,
+        "research": 0
+    },
+    {
+        "serial_no": 380,
+        "gre_score": 296,
+        "toefl_score": 96,
+        "university_rating": 2,
+        "sop": 2.16,
+        "lor": 2.0,
+        "cgpa": 7.56,
+        "research": 0
+    },
+    {
+        "serial_no": 153,
+        "gre_score": 299,
+        "toefl_score": 99,
+        "university_rating": 1,
+        "sop": 1.69,
+        "lor": 3.0,
+        "cgpa": 7.53,
+        "research": 0
+    },
+    {
+        "serial_no": 92,
+        "gre_score": 299,
+        "toefl_score": 97,
+        "university_rating": 3,
+        "sop": 5.0,
+        "lor": 3.5,
+        "cgpa": 7.66,
+        "research": 0
+    },
+    {
+        "serial_no": 147,
+        "gre_score": 324,
+        "toefl_score": 113,
+        "university_rating": 2,
+        "sop": 2.75,
+        "lor": 2.87,
+        "cgpa": 8.99,
+        "research": 1
+    },
+    {
+        "serial_no": 409,
+        "gre_score": 297,
+        "toefl_score": 101,
+        "university_rating": 3,
+        "sop": 2.0,
+        "lor": 4.0,
+        "cgpa": 7.67,
+        "research": 1
+    },
+    {
+        "serial_no": 174,
+        "gre_score": 323,
+        "toefl_score": 113,
+        "university_rating": 4,
+        "sop": 4.0,
+        "lor": 4.5,
+        "cgpa": 9.23,
+        "research": 1
+    },
+    {
+        "serial_no": 39,
+        "gre_score": 306,
+        "toefl_score": 107,
+        "university_rating": 1,
+        "sop": 3.98,
+        "lor": 3.46,
+        "cgpa": 7.7,
+        "research": 0
+    },
+    {
+        "serial_no": 371,
+        "gre_score": 305,
+        "toefl_score": 98,
+        "university_rating": 1,
+        "sop": 2.0,
+        "lor": 2.23,
+        "cgpa": 7.77,
+        "research": 0
+    },
+    {
+        "serial_no": 185,
+        "gre_score": 316,
+        "toefl_score": 106,
+        "university_rating": 2,
+        "sop": 2.5,
+        "lor": 4.0,
+        "cgpa": 8.32,
+        "research": 0
+    },
+    {
+        "serial_no": 483,
+        "gre_score": 328,
+        "toefl_score": 113,
+        "university_rating": 4,
+        "sop": 4.0,
+        "lor": 2.5,
+        "cgpa": 8.77,
+        "research": 1
+    }
+]
