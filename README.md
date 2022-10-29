@@ -35,6 +35,10 @@ El API estará escuchando en el puerto 6969 por defecto, pero se puede cambiar e
 Para acceder a él se puede entrar por el navegador a la dirección `http://localhost:6969/`
 
 ## Descripción del API y ejemplos de consumo
+
+### Pruebas en vivo
+Nosotros desplegamos el API del laboratorio en un servidor público, puedes probarlo en vivo en la siguiente dirección: [http://lab4api.bushidoway.net:6969](http://lab4api.bushidoway.net:6969/docs)
+
 Endpoints:
 - `/` - Página principal
 - `/predict` - Endpoint para hacer predicciones
