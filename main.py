@@ -8,7 +8,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-   return {"Hello": "World"}
+   return {"authors": "Lab4 API 202220 made by Group 18 - Juan Andrés Romero, Juan Andrés Méndez and Gabriela Cagua"}
 
 @app.post("/fit")
 def fit(data: list[DataModelFit]):
