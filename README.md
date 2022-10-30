@@ -44,3 +44,88 @@ Endpoints:
 - `/predict` - Endpoint para hacer predicciones
 - `/fit` - Endpoint para entrenar el modelo
 - `/docs` - Documentación del API
+
+## Ejemplos de uso del API
+### /predict
+El endpoint de predict recibe una lista de elementos para predecir y devuelve un arreglo que contiene las predicciones en el mismo orden que fueron recibidas. Es decir, la primera predicción corresponderá al primer elemento, la segunda al segundo, etc.
+
+Ejemplo del body de predict:
+```json
+[
+    {
+        "serial_no": 312,
+        "gre_score": 328,
+        "toefl_score": 108,
+        "university_rating": 4,
+        "sop": 4.5,
+        "lor": 4.0,
+        "cgpa": 9.18,
+        "research": 1
+    },
+    {
+        "serial_no": 239,
+        "gre_score": 326,
+        "toefl_score": 110,
+        "university_rating": 4,
+        "sop": 4.31,
+        "lor": 3.44,
+        "cgpa": 9.15,
+        "research": 1
+    }
+]
+```
+Respuesta del endpoint:
+```json
+{
+  "results": [
+    85.89347820319347,
+    84.57717283305547
+  ]
+}
+```
+
+### /fit
+Al igual que con el endpoint de predict, `/fit` también recibe una lista de elementos por parámetro del body, pero en este caso retorna métricas de error del entrenamiento del modelo. Las métricas que son devueltas son:
+- Mean Absolute Error
+- Root Mean Squared Error
+- R^2 Score
+
+Ejemplo del body de fit:
+```json
+[
+    {
+        "serial_no": 312,
+        "gre_score": 328,
+        "toefl_score": 108,
+        "university_rating": 4,
+        "sop": 4.5,
+        "lor": 4.0,
+        "cgpa": 9.18,
+        "research": 1,
+        "admission_points": 135
+    },
+    {
+        "serial_no": 239,
+        "gre_score": 326,
+        "toefl_score": 110,
+        "university_rating": 4,
+        "sop": 4.31,
+        "lor": 3.44,
+        "cgpa": 9.15,
+        "research": 1,
+        "admission_points": 125
+    }
+]
+```
+
+Respuesta del endpoint
+```json
+{
+  "Mean_Absolute_Error_Train": 7.244319918131911,
+  "Root_Mean_Squared_Error_Train": 95.69921817076069,
+  "R2_Score_Train": 0.7512890220437747,
+  "Mean_Absolute_Error_Test": 7.201588344936084,
+  "Root_Mean_Squared_Error_Test": 85.57499337118385,
+  "R2_Score_Test": 0.7264234692848139
+}
+```
